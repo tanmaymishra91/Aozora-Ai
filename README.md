@@ -3,7 +3,7 @@
 A premium, single-file AI chatbot interface powered by the **Perplexity API** (Sonar model).  
 Designed with a sleek **Cyberpunk/Neon aesthetic**, robust markdown support, and a responsive mobile-first UI.
 
-![AozoraAi Preview](https://aozoradesu.com/Ai/)
+!AozoraAi Preview -> https://aozoradesu.com/Ai/
 
 ## ✨ Features
 
